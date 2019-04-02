@@ -1,0 +1,18 @@
+body { 
+    background: url("../images/memphis-mini-dark.png");
+}
+
+h1, h2, label {
+    color: floralwhite;
+}
+
+#cloud {
+    float: right;
+    height: 315px;
+    width: 275px;
+}
+
+p {
+    background: url("../images/gypsystar.jpg");
+    color: floralwhite;
+}
